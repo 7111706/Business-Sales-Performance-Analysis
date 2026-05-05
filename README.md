@@ -46,6 +46,7 @@ Superstore Sales Dataset (Sample - Superstore.csv)
 
 <img width="1320" height="740" alt="image" src="https://github.com/user-attachments/assets/225998ec-1300-4350-99a4-e7a5103d9bf2" />
 
+<img width="1316" height="627" alt="image" src="https://github.com/user-attachments/assets/38aebf71-960a-4cbc-9081-2a4958164d91" />
 
 
 This dashboard was developed to simulate a real-world scenario where a retail company needs to identify profitability drivers and optimize sales strategy

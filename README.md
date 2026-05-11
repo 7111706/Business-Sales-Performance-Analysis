@@ -1,6 +1,3 @@
-# Business-Sales-Performance-Analysis
- 
-
  # FUTURE_DS_01 – Business Sales Performance Analysis
 
 ##  Project Overview
@@ -40,6 +37,17 @@ Superstore Sales Dataset (Sample - Superstore.csv)
 * Optimize regional marketing strategies
 * Improve product portfolio by removing underperformers
 
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Visualization
+* KPI Analysis
+* Business Intelligence
+* Dashboard Design
+* Sales Performance Analysis
+* Business Recommendations
+  
+
 ## Dashboard
 
 
@@ -53,7 +61,8 @@ This dashboard was developed to simulate a real-world scenario where a retail co
 
 
 
-## Ryan de Vos
+## Created by
+Ryan de Vos
 
 
 
